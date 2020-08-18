@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},r=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("h1",[n("a",{attrs:{href:"https://opendata.cwb.gov.tw/index",target:"_blank",title:"氣象開放資料平臺"}},[t._v("氣象開放資料平臺")])])])}],s=n("2877"),l={},c=Object(s["a"])(l,a,r,!1,null,null,null);e["default"]=c.exports}}]);
+//# sourceMappingURL=about.eebca10c.js.map
