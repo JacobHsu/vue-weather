@@ -1,4 +1,4 @@
-import { apiGetWeatherData } from "../api";
+import { apiGetWeatherData } from "@/api";
 export default {
     // 控制 loading 狀態控制
     handLoadingState({ commit }, bool){
